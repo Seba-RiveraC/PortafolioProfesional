@@ -1,0 +1,8 @@
+
+body{
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
