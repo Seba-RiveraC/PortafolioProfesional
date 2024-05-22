@@ -21,7 +21,6 @@
     
 }
 
-/* */
 
 h1{
     color:black;
@@ -51,15 +50,10 @@ color: white;
 };
 
 .card-img-top {
-    width: 200px; /* Ancho fijo para todas las imágenes */
-    height: 133px; /* Altura proporcional a 640x427 (proporción 3:2) */
-    object-fit: cover; /* Escalar la imagen para cubrir su contenedor */
-    border-radius: 10px; /* Bordes redondeados */
+    width: 200px;
+    height: 133px; 
+    object-fit: cover; 
+    border-radius: 10px; 
 }
 
-#cualidades{
-
-    
-    
-};
 
