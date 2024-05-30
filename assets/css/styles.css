@@ -9,7 +9,7 @@
 
 #imagenMain{
 
-    background-image: url(assets\img\img1.jpg);
+    background-image: url(/assets/img/img1.jpg);
     color: black;
     background-size: cover;
     background-position: center;
